@@ -1,6 +1,6 @@
 ### Olá!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAMorais)](https://github.com/IgorAMorais/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAMorais&count_private=true)](https://github.com/IgorAMorais/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

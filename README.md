@@ -1,12 +1,4 @@
-### Olá!
-
-<a href="https://github.com/IgorAMorais/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorAMorais&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/IgorAMorais/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorAMorais&repo=convoychat" />
-</a>
-
+#Olá!
 
 
 - 🔭 I’m currently working on ...
